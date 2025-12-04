@@ -10,3 +10,10 @@ export function showStats(player) {
     console.log(averageTime);
     console.log(totalTime);
 };
+
+export function measureSolveTime(fnAsk, riddleObj) {
+    timeStart = new Date().getTime() / 1000;
+    fnAsk(riddleObj);
+    timeAfter = new Date().getTime() / 1000;
+    console.log('time: ', timeAfter - timeStart);
+};
