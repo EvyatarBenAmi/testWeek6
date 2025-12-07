@@ -1,0 +1,26 @@
+{
+  "name": "testweek6",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000W\u0000e\u0000e\u0000k\u00006\u0000\r\u0000 \u0000e\u0000v\u0000y\u0000a\u0000t\u0000a\u0000r\u0000 \u0000b\u0000e\u0000n\u0000 \u0000a\u0000m\u0000i\u0000 \u0000\r\u0000 \u00002\u00000\u00009\u00001\u00006\u00005\u00002\u00005\u00007\u0000\r\u0000 \u0000g\u0000a\u0000l\u0000i\u0000l\u0000",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvyatarBenAmi/testWeek6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EvyatarBenAmi/testWeek6/issues"
+  },
+  "homepage": "https://github.com/EvyatarBenAmi/testWeek6#readme"
+}
